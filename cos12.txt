@@ -1,0 +1,3 @@
+A Cosmetics Assistant is a smart application (built in Python + Machine Learning) that helps users choose the right beauty products based on their skin type, tone, occasion, and budget.
+
+It works like a virtual beauty advisor, making personalized recommendations so users don’t have to struggle with trial-and-error when selecting cosmetics.
